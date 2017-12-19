@@ -9,7 +9,7 @@ $ wget https://raw.githubusercontent.com/teguhmicro/PHP-7-Nginx-MySQL-Auto-Insta
 $ bash vhost.sh
 ```
 ## Screenshoot ##
-
+![nginx-virualhost-auto-installer](https://raw.githubusercontent.com/teguhmicro/Nginx-Virtual-Host-Auto-Installer/master/nginx-vhost-auto-installer.PNG)
 
 
 ## MIT License ##
