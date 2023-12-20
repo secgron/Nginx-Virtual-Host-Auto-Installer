@@ -5,7 +5,7 @@ Auto Installer to add your domain to your server using nginx virtual host
 
 CentOS 6 & 7
 ```bash
-$ wget https://raw.githubusercontent.com/teguhmicro/Nginx-Virtual-Host-Auto-Installer/master/vhost.sh -O vhost.sh
+$ wget https://raw.githubusercontent.com/secgron/Nginx-Virtual-Host-Auto-Installer/master/vhost.sh -O vhost.sh
 $ bash vhost.sh
 ```
 ## Screenshoot ##
